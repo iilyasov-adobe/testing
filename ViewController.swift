@@ -32,11 +32,7 @@ class ViewController: UIViewController {
     }()
     
     
-    /* Maintains consistency with the existing
-     "Done" string across most languages,
-     and provides a concise translation
-    "ShortenedViewer" =
-     "Done"; */
+    /*    "ShortenedViewer" */
 
     
     // MARK: - Lifecycle
