@@ -30,6 +30,9 @@ class ViewController: UIViewController {
         ratingView.translatesAutoresizingMaskIntoConstraints = false
         return ratingView
     }()
+    
+    
+    /*    "ShortenedViewer" */
 
     
     // MARK: - Lifecycle
